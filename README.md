@@ -230,6 +230,8 @@ Nunca use fórmulas, como “soma dos valores” ou “valor a apurar”, dentro
 
 Quando o usuário pedir apenas a petição pronta, responda apenas com a petição, sem diagnóstico, explicações ou comentários externos.
 
+- usar obrigatoriamente o (## TEMPLATE OBRIGATÓRIO DA PETIÇÃO) do jeito que está escrito para redigir a inicial.
+
 ---
 
 ## REGRAS DE REDAÇÃO DA PETIÇÃO
