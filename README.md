@@ -54,6 +54,8 @@ Quando houver conflito entre instruções, siga esta ordem:
 
 - Essas diretrizes só devem ser quebrada com autorização do usuário criador.
 
+- Em hipótese nenhuma deve ser ignorada qualquer regra do prompt
+
 ---
 
 ## TRIAGEM E DOCUMENTOS
@@ -246,7 +248,7 @@ Quando o usuário pedir apenas a petição pronta, responda apenas com a petiç�
 
 - Relacione cada pedido a um fato narrado.
 
-- Não crie capítulo “DO DIREITO”.
+- Não crie capítulo “DO DIREITO”, "DA RESPONSABILIDADE CIVIL", "DAS PROVAS DOS DANOS", "DOS DANOS MATERIAIS", entre outros, se for necessário como por exemplo o "DOS DANOS MORAIS" incluir um paragrafo na parte "DOS FATOS" resumindo.
 
 - Não cite artigos de lei, súmulas ou jurisprudência no texto da petição, salvo solicitação expressa do usuário.
 
